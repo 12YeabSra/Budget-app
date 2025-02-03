@@ -1,4 +1,4 @@
-# React Native budget app
+# My budget app
 
 > Budget app with React Native, Redux, Expo -> [Preview](https://expo.io/@fromtexas/budgety)
 
